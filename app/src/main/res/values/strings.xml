@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">"Gastro Tour Guide "</string>
+
+
+    <string name="market_activity_name">Markets</string>
+
+    <!-- Category name for market [CHAR LIMIT=20] -->
+    <string name="category_market">Markets</string>
+
+    <!-- Category name for the street food [CHAR LIMIT=20] -->
+    <string name="category_food">Street Food</string>
+
+    <!-- Category name for the bars [CHAR LIMIT=20] -->
+    <string name="category_drink">Bars</string>
+
+    <!-- Category name for the cooking [CHAR LIMIT=20] -->
+    <string name="category_cooking">Cooking</string>
+
+    <!-- Category name for the guides [CHAR LIMIT=20] -->
+    <string name="category_guide">Guides</string>
+
+    <!--Markets-->
+    <string name="carmel_market">Shuk Hacarmel</string>
+    <string name="levinsky_market">The Levinsky Market</string>
+    <string name="hatikva_market">Honda Indy Grand Prix of Alabama</string>
+    <string name="pispasim_market">Jaffa Flea Market, Shuk Hapishpishim
+</string>
+
+    <string name="carmel_market_disc">The Carmel Market (the Shuk Hacarmel) is the largest market, or shuk, in Tel Aviv. A vibrant marketplace where traders sell everything from clothing to spices, and fruit to electronics, visiting the Carmel Market is a fascinating thing to do in Tel Aviv. The hustle and bustle, vibrant noise, colors and smells, as well as its reputation as the largest authentic Middle-Eastern style shuk in Tel Aviv, all combine to make the Carmel Market a favorite place for everyone from first time tourists visiting the city, to locals who come here to get the freshest fruit and vegetables, and some of the cheapest products in the city. The market can at first appear to be a little intimidating, with so many senses stimulated at once – the sounds of the traders, the smells and flavors of the fresh produce, and sights of so many interesting things at once. We offer a short food tour of the Carmel Market to provide an introduction and tasting opportunity, which some visitors find helpful when they come back to explore in more depth.</string>
+    <string name="levinsky_market_disc">The Levinsky Market is a cultural gem in the heart of the trendy neighborhood of Florentin in southern Tel Aviv. It may not be the first stop for a typical tourist in Tel Aviv, but the combination of exotic spices and unique personality could draw anyone into this market, or shuk. A very popular spot for locals, it is one of the best places to buy spices in Tel Aviv. In just five blocks, visitors can eat their way through the market’s widespread culinary history, sampling pastries, called burekas, sipping Ouzo or even downing salted fish.</string>
+    <string name="hatikva_market_disc">HaTikva Quarter is a working class neighborhood in Southern Tel Aviv. It’s full of noise and color, the most underappreciated gem of this quarter being the HaTikva market. Unlike many other markets in Tel Aviv, the space is wide, the produce is cheap and the diversity is abundant. Shopping for food need not be a chore. It could be a form of entertainment and a way to connect with your food and those who sell it. Roaming the HaTikva market is pleasant and fun. The stalls are placed on the sides of a wide street, there is easy access to the produce and both sellers and shoppers are relaxed and chatty.</string>
+    <string name="pispasim_market_disc">Jaffa is the ancient port out of which modern day Tel Aviv has grown. The Jaffa Flea Market, or,  in Hebrew Shuk Hapishpishim is one of the highlights of the area with vendors selling products of any variety imaginable lining the sidewalks. Weaving your way through an array of treasure, junk, and daily basics, you’ll see everything from Judaica, Persian tiles, jewelery, old jeans, and Indian mildewed clothes. Its an incredible cultural experience, where bargaining and haggling rule the day… fun in itself.
+
+</string>
+
+    <!--Bars-->
+    <string name="bar_title_kuli">Kuli Alma</string>
+    <string name="bar_title_spice">Spicehaus (Jaffa Perfume Company)</string>
+    <string name="bar_title_Hoodna">Hoodna</string>
+    <string name="bar_title_Block">The Block</string>
+    <string name="bar_title_Teder">TEDER.FM</string>
+    <string name="bar_title_Pasaz">Pasaz</string>
+    <string name="bar_title_Imperial">Imperial Cocktail Bar</string>
+
+    <string name="bar_desc_kuli">Voted the best bar in Tel Aviv! The cool underground bar on the corner of Yehuda Halevi and Allenby has a big outdoor area to chill, a closed room with amazing music to dance and a third room that usually has live music! The also host some great exhibitions and pop up shops, a complete experience! It has some of the best vibes in the city, awesome DJs, beautiful graffiti decorating the walls and Tubi slushies!</string>
+    <string name="bar_desc_spice">This is definitely one of the coolest concept bars ever. They call it a “cocktail bar pharmacy”, the bartenders actually dress like pharmacists, and cocktails are served in 3 different sized beaker bottles. This is the largest cocktail bar in Tel Aviv, but don’t get confused when you see a sign for “The East Jaffa Perfume Company” – you’re at the right place!</string>
+    <string name="bar_desc_Hoodna">Located in the heart of the artsy Florentin neighborhood and surrounded by the best Graffiti in the City, Hoodna Bar is one of the favorite drinking holes for the South Tel Avivis, it offers free live music from Israeli performers, reasonably well priced drinks and food and some of the most chill vibes in all of Tel Aviv.</string>
+    <string name="bar_desc_Block">The Block is Tel ,Aviv’s biggest and most serious night club. Located on Salame st., detached from most of TLV’s wild night-life, The Block is easily accessible by either bus or taxi. As soon as you enter, the outside world ceases to exist, but with 3 different areas, each with their own music and vibe – why would you want to leave? First you will hit the main dance hall, there is also a smaller dance hall and a lounge. All these are connected by luminous corridors for you to get lost and re-find yourself.</string>
+    <string name="bars_desc_Teder">If Tel Aviv is a hipster capital of the world, TEDER.FM is its Mecca! Teder is a perfect hangout, it’s unpretentious and chilled, with outside tables in the middle of an old gallery, perfect to sit out with friends for hours, they broadcast good music, serve beer in jars for sharing and have an amazing pizza. They regularly host cool guest DJs (TEDER.FM broadcasts live every night), special performances, movie nights, and second-hand-markets.</string>
+    <string name="bar_desc_Pasaz">Literally located in an underground passage, this bar/live music venue has a very laidback feel. With red dim lighting and vintage furniture, the hipster vibe puts an emphasis on the music without the frills of a posh night club.</string>
+    <string name="bar_desc_Imperial">Winner of Drinks International magazine’s “Best Bar in Africa and the Middle East”! They have a super unique cocktail list that changes with the season. If nothing strikes your fancy, you can tell one of the talented mixologists what kind of flavors you like, and they will make you something unique! As a bonus, they even have 50% off cocktails from 6-8 PM. Inside the Imperial Hotel Hayarkon 66.</string>
+
+    <!--Street Food-->
+    <string name="food_hasomer">HaShomer 1</string>
+    <string name="food_miznon">Miznon</string>
+    <string name="food_barochel">Bar Ochel</string>
+    <string name="food_hakosem">HaKosem</string>
+    <string name="food_malabia">HaMalabia</string>
+    <string name="food_jachnun">Jahnun in Tel Aviv’s Yemenite Quarter</string>
+    <string name="food_sabich">Sabich Frishman</string>
+
+    <string name="food_hasomer_disc">Although HaShomer 1 is well known for its meaty sandwiches and salads, we want to let you in on our little secret. The hummus and spinach shakshuka is simply divine. Perfectly runny eggs, fresh spinach leaves and whole chickpeas that give each bite a unique flavor. It’s ready in minutes and is served with a crusty loaf of warm challah.</string>
+    <string name="food_miznon_disc">Gourmet fast food might sound counter intuitive, but Miznon makes it work. Order the steak and eggs, a cauliflower which will melt in your mouth, a cold beer, and just sit back and enjoy the crazy atmosphere. Don’t be afraid to get messy as the tehina and egg are dripping, be prepared for finger licking.</string>
+    <string name="food_barochel_disc">Bar Ochel is the ideal spot for meat-lovers, located in the Carmel market: it’s quick, it’s tasty and it won’t break the bank. All the produce comes directly from the market, so really is as fresh as it gets. You can either order the meat on a plate served with fresh bread, dips and grilled vegetables, or packed full in a pita, just the way we like it. We recommend their beef kebabs. They claim they are ‘the best in Tel Aviv’ and they’re not wrong. Flavorsome and simply delicious!
+</string>
+    <string name="food_hakosem_disc">HaKosem, serves excellent falafel and shwarma, in pita, laffa or simply on a plate. The combination plates which they offer are large and great value for money. If you’re feeling peckish whilst waiting, they hand out falafel balls.</string>
+    <string name="food_malabia_disc">First of all, let me explain what malabi is, in case you have never heard of it. Malabi is a Middle Eastern milky pudding topped with sweet pink syrup, also known in some Arab countries as “muhallabia”. Plenty of places offer malabi as a dessert, but only a few make it like a pro. HaMalabia (means The Malabi Place) opened in early summer of 2014. It’s no wonder that HaMalabia became the “now trending” place very shortly – very cool vibe, outdoor seats including a long shared table and table games makes it an easy going meeting place.</string>
+    <string name="food_jachnun_disc">Brothers Johnny and Barak Peretz have racked up their share of mileage in Tel Aviv nightlife, but they missed their Shabbat morning breakfasts back in the day with their grandfather in Rehovot. So last summer they, together with a friend, Guy Tzarfati opened Jahnun Bar — and what better location than in the neighborhood where it all began, the Yemenite Quarter (Kerem Hateimanim) of Tel Aviv?</string>
+    <string name="food_sabich_disc">It’s no wonder that this sabich joint is busy at all times of the day. They serve a traditional sabich in pita which consists of fried eggplant, hard-boiled egg, potato, and salad. The pita and the salads are fresh and flavorful. Order your pita with hakol bifnim (everything inside).</string>
+
+    <!--Cooking-->
+    <string name="cooking_course_humus">How to make hummus</string>
+    <string name="cooking_course_saksuka">Cooking shaksuka</string>
+    <string name="cooking_course_kube">Iraqi kube soup</string>
+    <string name="cooking_course_leves">The classis matzo ball soup</string>
+    <string name="cooking_course_karfiol">Eyal Shani famous fried cauliflower</string>
+    <string name="cooking_course_eggplant">The so cool grilled eggplant with tachini</string>
+
+    <string name="cooking_course_humus_disc">Join us on a relaxed evening of cooking, chatting with other guests, learning about local cuisine and tasting a delicious Israeli meal of hummus. Try something new, healthy and authentic as we introduce you to this tasty local vegetarian dish</string>
+    <string name="cooking_course_saksuka_disc">Jump into Mediterranean cuisine with our shakshuka-making culinary workshop! Bring yourself and a friend, learn how to make this oven-roasted tomato-based egg dish, and sit down to a healthy, flavorful, and tasty meal</string>
+    <string name="cooking_course_kube_disc">Jump into the Iraqi cuisine kube workshop  Kube: Semolina dumplings filled with ground beef (coming mainly from Iraq). Can be cooked in a soup or fried.</string>
+    <string name="cooking_course_leves_disc">Jump into Mediterranean cuisine with our traditional matzo ball soup making culinary workshop! Bring yourself and a friend, learn how to make this east European classic jewish soup, and sit down to a traditional tasty meal</string>
+    <string name="cooking_course_karfiol_disc">This hot foodie trend started in Israel before variations spread worldwide. We show you how to make the original whole roasted cauliflower, using the celebrity chef\'s own instructions.</string>
+    <string name="cooking_course_eggplant_disc">Join us on a relaxed evening of cooking, chatting with other guests, learning about local cuisine and tasting a delicious Israeli meal of eggplant tachini and  amba. Try something new, healthy and authentic as we introduce you to this tasty local vegetarian dish</string>
+
+    <!--Guides-->
+    <string name="guide1">Ariel</string>
+    <string name="guide2">Gabi</string>
+    <string name="guide3">Orshi</string>
+    <string name="guide4">TFlora</string>
+
+
+    <string name="guide1_disc">Ariel Lasman is a licensed Israeli tour guide through the Israeli Ministry of Tourism. He is an outdoor specialist, geographer and co-founder of Finjan currently living in Tel Aviv, Israel. You can often find him leading travellers through Israel’s deep desert canyons and self-discovered, alternative travel destinations across the country. He holds an M.A in Geography from Bar-Ilan University and is one of the co-founders of Finjan.</string>
+    <string name="guide2_disc">Gabi is a professional photographer, you can get a full album about your trip on the end of your trip</string>
+    <string name="guide3_disc">Orsi is a foodie and a cook, she will guide you through the Israeli cuisine, and teach you how you cab cook it at home.</string>
+    <string name="guide4_disc">Flora knows the best bars and drinks in Tel Aviv, enjoy a night through her guidance in all the best bars, and parties</string>
+</resources>

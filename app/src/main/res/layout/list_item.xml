@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image_view"
+        android:layout_width="@dimen/image_size"
+        android:layout_height="@dimen/image_size"
+        android:paddingLeft="@dimen/image_padding"
+        android:layout_gravity="center_vertical"/>
+
+    <LinearLayout
+        android:id="@+id/text_container"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/title_style"
+            android:id="@+id/tourTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/text_padding"
+            android:paddingRight="@dimen/text_padding"
+            android:paddingLeft="@dimen/text_padding"
+            tools:text="Filler"/>
+
+        <TextView
+            style="@style/description_style"
+            android:id="@+id/tourDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/text_padding"
+            android:paddingRight="@dimen/text_padding"
+            android:paddingBottom="@dimen/text_padding"
+            tools:text="Text"/>
+
+    </LinearLayout>
+
+</LinearLayout>

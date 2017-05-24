@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DD2C00</color>
+    <color name="colorPrimaryDark">#BF360C</color>
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="market_color">#FD6C09</color>
+
+    <color name="streetfood_color">#00897B</color>
+
+    <color name="bars_color">#7E336E</color>
+
+    <color name="cooking_color">#06A086</color>
+
+    <color name="guides_color">#E53935</color>
+
+
+</resources>
