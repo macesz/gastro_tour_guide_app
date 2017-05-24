@@ -1,5 +1,6 @@
 package com.example.android.gastrotourguide;
 
+import android.support.design.widget.TabLayout;
 import android.support.v4.view.ViewPager;
 
 import android.support.v7.app.AppCompatActivity;
@@ -24,7 +25,6 @@ public class MainActivity extends AppCompatActivity {
 
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(viewPager);
-
 
     }
 }

@@ -22,11 +22,11 @@
     <!--Markets-->
     <string name="carmel_market">Shuk Hacarmel</string>
     <string name="levinsky_market">The Levinsky Market</string>
-    <string name="hatikva_market">Honda Indy Grand Prix of Alabama</string>
+    <string name="hatikva_market">HaTikva Market</string>
     <string name="pispasim_market">Jaffa Flea Market, Shuk Hapishpishim
 </string>
 
-    <string name="carmel_market_disc">The Carmel Market (the Shuk Hacarmel) is the largest market, or shuk, in Tel Aviv. A vibrant marketplace where traders sell everything from clothing to spices, and fruit to electronics, visiting the Carmel Market is a fascinating thing to do in Tel Aviv. The hustle and bustle, vibrant noise, colors and smells, as well as its reputation as the largest authentic Middle-Eastern style shuk in Tel Aviv, all combine to make the Carmel Market a favorite place for everyone from first time tourists visiting the city, to locals who come here to get the freshest fruit and vegetables, and some of the cheapest products in the city. The market can at first appear to be a little intimidating, with so many senses stimulated at once – the sounds of the traders, the smells and flavors of the fresh produce, and sights of so many interesting things at once. We offer a short food tour of the Carmel Market to provide an introduction and tasting opportunity, which some visitors find helpful when they come back to explore in more depth.</string>
+    <string name="carmel_market_disc">The Carmel Market (the Shuk Hacarmel) is the largest market, or shuk, in Tel Aviv. A vibrant marketplace where traders sell everything from clothing to spices, and fruit to electronics, visiting the Carmel Market is a fascinating thing to do in Tel Aviv. The hustle and bustle, vibrant noise, colors and smells, as well as its reputation as the largest authentic Middle-Eastern style shuk in Tel Aviv, all combine to make the Carmel Market a favorite place for everyone from first time tourists visiting the city.</string>
     <string name="levinsky_market_disc">The Levinsky Market is a cultural gem in the heart of the trendy neighborhood of Florentin in southern Tel Aviv. It may not be the first stop for a typical tourist in Tel Aviv, but the combination of exotic spices and unique personality could draw anyone into this market, or shuk. A very popular spot for locals, it is one of the best places to buy spices in Tel Aviv. In just five blocks, visitors can eat their way through the market’s widespread culinary history, sampling pastries, called burekas, sipping Ouzo or even downing salted fish.</string>
     <string name="hatikva_market_disc">HaTikva Quarter is a working class neighborhood in Southern Tel Aviv. It’s full of noise and color, the most underappreciated gem of this quarter being the HaTikva market. Unlike many other markets in Tel Aviv, the space is wide, the produce is cheap and the diversity is abundant. Shopping for food need not be a chore. It could be a form of entertainment and a way to connect with your food and those who sell it. Roaming the HaTikva market is pleasant and fun. The stalls are placed on the sides of a wide street, there is easy access to the produce and both sellers and shoppers are relaxed and chatty.</string>
     <string name="pispasim_market_disc">Jaffa is the ancient port out of which modern day Tel Aviv has grown. The Jaffa Flea Market, or,  in Hebrew Shuk Hapishpishim is one of the highlights of the area with vendors selling products of any variety imaginable lining the sidewalks. Weaving your way through an array of treasure, junk, and daily basics, you’ll see everything from Judaica, Persian tiles, jewelery, old jeans, and Indian mildewed clothes. Its an incredible cultural experience, where bargaining and haggling rule the day… fun in itself.
@@ -87,7 +87,7 @@
     <string name="guide1">Ariel</string>
     <string name="guide2">Gabi</string>
     <string name="guide3">Orshi</string>
-    <string name="guide4">TFlora</string>
+    <string name="guide4">Flora</string>
 
 
     <string name="guide1_disc">Ariel Lasman is a licensed Israeli tour guide through the Israeli Ministry of Tourism. He is an outdoor specialist, geographer and co-founder of Finjan currently living in Tel Aviv, Israel. You can often find him leading travellers through Israel’s deep desert canyons and self-discovered, alternative travel destinations across the country. He holds an M.A in Geography from Bar-Ilan University and is one of the co-founders of Finjan.</string>

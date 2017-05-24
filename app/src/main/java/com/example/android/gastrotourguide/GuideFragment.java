@@ -26,7 +26,7 @@ public class GuideFragment extends Fragment {
         restaurants.add(new Tour(R.drawable.family_daughter, getString(R.string.guide3), getString(R.string.guide3_disc)));
         restaurants.add(new Tour(R.drawable.family_older_sister, getString(R.string.guide4), getString(R.string.guide4_disc)));
 
-        TourAdapter adapter = new TourAdapter(getActivity(), restaurants, R.color.market_color);
+        TourAdapter adapter = new TourAdapter(getActivity(), restaurants, R.color.guides_color);
 
         ListView listView = (ListView) rootView.findViewById(R.id.list);
 
