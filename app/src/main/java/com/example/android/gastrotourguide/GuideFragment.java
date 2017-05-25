@@ -22,7 +22,7 @@ public class GuideFragment extends Fragment {
 
         final ArrayList<Tour> restaurants = new ArrayList<Tour>();
         restaurants.add(new Tour(R.drawable.family_older_brother, getString(R.string.guide1), getString(R.string.guide1_disc)));
-        restaurants.add(new Tour(R.drawable.family_mother, getString(R.string.guide2), getString(R.string.guide1_disc)));
+        restaurants.add(new Tour(R.drawable.family_mother, getString(R.string.guide2), getString(R.string.guide2_disc)));
         restaurants.add(new Tour(R.drawable.family_daughter, getString(R.string.guide3), getString(R.string.guide3_disc)));
         restaurants.add(new Tour(R.drawable.family_older_sister, getString(R.string.guide4), getString(R.string.guide4_disc)));
 
